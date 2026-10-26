@@ -1,0 +1,28 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.keystore
+*keystore*
+keystores/
+
+# Foundry / Solidity
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# Node / Web
+node_modules/
+dist/
+web/dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db

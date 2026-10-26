@@ -1,0 +1,13 @@
+{
+  "name": "tiketa-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Tiketa on-chain event ticketing",
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test",
+    "export-contracts": "node script/exportContracts.js"
+  },
+  "keywords": ["solidity", "erc1155", "foundry", "tiketa", "botchain"],
+  "author": "",
+  "license": "MIT"
+}

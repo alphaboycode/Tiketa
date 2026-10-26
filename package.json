@@ -1,0 +1,16 @@
+{
+  "name": "tiketa-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiketa on-chain event ticketing dApp monorepo",
+  "scripts": {
+    "contracts:build": "cd contracts && forge build",
+    "contracts:test": "cd contracts && forge test",
+    "contracts:export": "cd contracts && node script/exportContracts.js",
+    "web:dev": "cd web && npm run dev",
+    "web:build": "cd web && npm run build"
+  },
+  "keywords": ["solidity", "erc1155", "foundry", "react", "ethers", "botchain"],
+  "author": "",
+  "license": "MIT"
+}
