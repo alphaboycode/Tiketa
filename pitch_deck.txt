@@ -1,0 +1,209 @@
+================================================================================
+                                T I K E T A
+            Next-Generation On-Chain Event Ticketing on Botchain
+================================================================================
+  Protocol: Decentralized ERC-1155 Multi-Tier Event Ticketing Protocol
+  Network:  Botchain Testnet (Chain ID: 968 | Native Token: BOT)
+  Contract: 0x917524fccd12d61a36918506d5e80679699e534f
+  Website:  http://localhost:5173
+  Explorer: https://scan.bohr.life/address/0x917524fccd12d61a36918506d5e80679699e534f
+================================================================================
+
+
+--------------------------------------------------------------------------------
+SLIDE 1: EXECUTIVE SUMMARY & VISION
+--------------------------------------------------------------------------------
+Tiketa is a Web3 event ticketing dApp engineered on Botchain that replaces
+antiquated, predatory ticketing monopolies with transparent, immutable smart
+contracts.
+
+By utilizing Ethereum's ERC-1155 standard with capped supply enforcement and
+atomic native settlement in BOT, Tiketa guarantees:
+  * 100% counterfeit-proof digital tickets
+  * Exact payment verification with zero scalper markups or hidden fees
+  * True peer-to-peer asset ownership and secondary liquidity
+  * Instant, automated treasury payouts directly to event organizers
+
+
+--------------------------------------------------------------------------------
+SLIDE 2: THE PROBLEM — LEGACY TICKETING IS BROKEN
+--------------------------------------------------------------------------------
+The traditional live event ticketing industry ($75B+ annual volume) is burdened
+by deep structural failures:
+
+1. RAMPANT FRAUD & COUNTERFEITING
+   - Over $15B lost annually to fake tickets, duplicate QR screenshots, and scams.
+   - Fans arrive at venues only to find their ticket has already been scanned.
+
+2. PREDATORY MIDDLEMEN & JUNK FEES
+   - Platforms like Ticketmaster and Eventbrite charge 15% to 35% in hidden "service fees",
+     "processing fees", and "delivery fees".
+   - Creators and fans both lose value to extractive intermediaries.
+
+3. UNREGULATED BOT SCALPING
+   - Sybil bot rings scoop up inventory in milliseconds and resell tickets on secondary
+     markets at 300% to 1,000% markups, with 0% of profits returned to artists.
+
+4. CUSTODIAL LOCK-IN & RESTRICTIONS
+   - Users don't actually own their tickets; platforms can cancel, lock, or restrict
+     ticket transfers at their sole discretion.
+
+
+--------------------------------------------------------------------------------
+SLIDE 3: THE SOLUTION — TIKETA PROTOCOL
+--------------------------------------------------------------------------------
+Tiketa solves these challenges through trustless on-chain primitives:
+
+* CRYPTOGRAPHIC CERTAINTY (ERC-1155)
+  Each ticket tier (GA, VIP, Early Bird) is represented by a unique on-chain token ID
+  with transparent, unchangeable supply caps enforced by bytecode logic.
+
+* ATOMIC & EXACT SETTLEMENT
+  Every purchase requires exact native token (BOT) payment calculated dynamically
+  (Price x Quantity). Transactions with underpayment or overpayment are rejected.
+
+* TRUE SOVEREIGN OWNERSHIP
+  Tickets are minted directly into the attendee's self-custodial wallet (MetaMask /
+  web3 wallet). Users can freely store, gift, or transfer tickets on secondary markets.
+
+* ORGANIZER AUTONOMY
+  Event creators deploy and manage their own event contracts, adjust tier prices,
+  toggle sales availability, and withdraw ticket revenues without platform permission.
+
+
+--------------------------------------------------------------------------------
+SLIDE 4: TECHNICAL ARCHITECTURE & STACK
+--------------------------------------------------------------------------------
+Tiketa is engineered as a production-grade monorepo combining battle-tested smart
+contracts with a high-performance modern web interface:
+
++-----------------------------------------------------------------------------+
+|                                FRONTEND LAYER                               |
+|   Vite + React 18 + TypeScript + Tailwind CSS                               |
+|   - Ethers.js v6 for wallet connection & RPC management                     |
+|   - Auto-prompt Botchain (Chain ID: 968) network addition / switching       |
+|   - Real-time transaction tracking linking to Bohr Explorer                 |
++-----------------------------------------------------------------------------+
+                                      |
+                                      v JSON-RPC (https://rpc.bohr.life)
++-----------------------------------------------------------------------------+
+|                             SMART CONTRACT LAYER                            |
+|   Tiketa.sol (Solidity ^0.8.24) deployed on Botchain                        |
+|   - OpenZeppelin Contracts v5: ERC1155, ERC1155Supply, Ownable,             |
+|     ReentrancyGuard                                                         |
+|   - Custom Errors: TierAlreadyExists, MaxSupplyExceeded, ExactPaymentRequired|
+|   - CEI (Checks-Effects-Interactions) pattern for maximum security          |
++-----------------------------------------------------------------------------+
+                                      |
+                                      v
++-----------------------------------------------------------------------------+
+|                            INFRASTRUCTURE LAYER                             |
+|   Botchain EVM Testnet (Chain ID 968)                                       |
+|   - 3-second block times for near-instant confirmations                     |
+|   - Ultra-low gas fees (~$0.001 per mint)                                   |
+|   - Block Explorer: https://scan.bohr.life                                  |
++-----------------------------------------------------------------------------+
+
+
+--------------------------------------------------------------------------------
+SLIDE 5: KEY FEATURES & USER EXPERIENCE
+--------------------------------------------------------------------------------
+FOR ATTENDEES:
+- Browse available tiers with real-time remaining supply progress bars.
+- Transparent pricing in native BOT tokens with no hidden surcharge.
+- 1-Click purchase with integrated quantity selectors.
+- "My Tickets" portfolio: view owned tiers, quantities, and initiate peer-to-peer
+  transfers to any wallet address instantly.
+
+FOR ORGANIZERS:
+- Role-Guarded Dashboard: only the contract owner can access administrative controls.
+- Dynamic Tier Creation: configure token ID, tier name, max supply cap, and price.
+- Live Price Control: update ticket prices in real time as demand shifts.
+- Emergency / Status Controls: toggle tier sales active or paused in 1 transaction.
+- Treasury Management: single-click native token revenue withdrawals directly to
+  the organizer's wallet.
+
+
+--------------------------------------------------------------------------------
+SLIDE 6: TRACTION & BOTCHAIN DEPLOYMENT METRICS
+--------------------------------------------------------------------------------
+Tiketa is fully deployed and validated on the Botchain testnet:
+
+  * Contract Address: 0x917524fccd12d61a36918506d5e80679699e534f
+  * Passing Test Suite: 25 / 25 unit and fuzz tests passed via Foundry
+  * Deployed Tiers:
+      - Tier 1: General Admission (Cap: 500 | Price: 0.01 BOT)
+      - Tier 2: VIP Experience   (Cap:  50 | Price: 0.05 BOT)
+  * Live On-Chain Activity:
+      - 25 confirmed ticket mints executed across multiple test wallets
+      - 24 on-chain TicketsPurchased and TransferSingle events emitted
+      - 100% transaction success rate on Bohr Block Explorer
+
+
+--------------------------------------------------------------------------------
+SLIDE 7: MARKET OPPORTUNITY & BUSINESS MODEL
+--------------------------------------------------------------------------------
+MARKET SIZE:
+- Global Event Ticketing Market: $85.3 Billion by 2028 (CAGR 6.5%).
+- Web3 Ticketing & Digital Collectibles TAM: $12 Billion by 2030.
+
+SUSTAINABLE REVENUE MODEL:
+1. Low Protocol Fee:
+   - 0.5% - 1.5% primary mint fee (under-cutting legacy platforms by 90%+).
+2. Secondary Royalty Sharing (EIP-2981):
+   - Configurable 2.5% - 5.0% royalty on resale transactions, split between
+     the platform and event creators.
+3. Enterprise & White-Label Services:
+   - Custom event contract deployments, venue analytics, and branded frontend portals.
+
+
+--------------------------------------------------------------------------------
+SLIDE 8: COMPETITIVE ADVANTAGE
+--------------------------------------------------------------------------------
+Feature                   Ticketmaster      YellowHeart      Tiketa (Botchain)
+--------------------------------------------------------------------------------
+Transaction Fees          15% - 35%         5% - 10%         < 1.5%
+Settlement Time           Days - Weeks      Minutes          3 Seconds
+Custody                   Centralized       Semi-Custodial   100% Self-Custodial
+Supply Transparency       Zero (Hidden)     Partial          100% On-Chain Cap
+Ticket Resale Rights      Restricted        Restricted       Open ERC-1155 Standard
+Gas Costs                 N/A               High (Ethereum)  Sub-cent (< $0.001)
+Open Source / Verifiable  No                No               Yes (Foundry & GitHub)
+
+
+--------------------------------------------------------------------------------
+SLIDE 9: ROADMAP
+--------------------------------------------------------------------------------
+Q4 2026 (COMPLETED):
+[x] ERC-1155 Smart Contract architecture with capped supplies & exact payment
+[x] Full Foundry test suite (25 passing unit + fuzz tests)
+[x] Botchain Testnet deployment & verification
+[x] React + Vite + Tailwind dApp with wallet integration & organizer dashboard
+[x] Multi-wallet live testing & event indexing
+
+Q1 2027 (IN DEVELOPMENT):
+[ ] Decentralized metadata anchoring on IPFS / Arweave
+[ ] EIP-2981 secondary royalty enforcement
+[ ] Event Factory smart contract for multi-event deployment from UI
+
+Q2 2027:
+[ ] Fiat on-ramp integration (Credit cards to BOT ticket minting)
+[ ] Proof-of-Attendance (POAP) soulbound claim tokens for past attendees
+[ ] Mobile-optimized progressive web app (PWA) with push notifications
+
+
+--------------------------------------------------------------------------------
+SLIDE 10: CONCLUSION & SUMMARY
+--------------------------------------------------------------------------------
+Tiketa brings fairness, mathematical transparency, and cryptographic ownership
+to the multi-billion dollar ticketing industry.
+
+By building on Botchain, Tiketa combines high-throughput, negligible gas fees,
+and EVM compatibility to deliver the first seamless Web3 event ticketing protocol
+ready for mainstream consumer adoption.
+
+CONTACT & LINKS:
+- Smart Contract: 0x917524fccd12d61a36918506d5e80679699e534f
+- Botchain Explorer: https://scan.bohr.life
+- Repository: https://github.com/botchain/tiketa
+================================================================================

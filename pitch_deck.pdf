@@ -1,0 +1,652 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 1961 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.060 0.090 0.160 rg 0.180 0.250 0.380 RG 45.0 60.0 752.0 485.0 re B
+1 w 0.490 0.230 0.930 rg 75.0 465.0 200.0 24.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 85.0 481.0 Td (DECENTRALIZED EVENT PROTOCOL) Tj ET
+BT /F2 38 Tf 1.000 1.000 1.000 rg 75.0 410.0 Td (TIKETA PROTOCOL) Tj ET
+BT /F2 16 Tf 0.650 0.550 0.980 rg 75.0 377.0 Td (Next-Generation On-Chain Event Ticketing on Botchain) Tj ET
+BT /F1 13 Tf 0.780 0.840 0.900 rg 75.0 335.0 Td (Tiketa is an autonomous Web3 event protocol replacing predatory ticketing monopolies) Tj ET
+BT /F1 13 Tf 0.780 0.840 0.900 rg 75.0 315.0 Td (with immutable ERC-1155 smart contracts, capped supplies, and exact native BOT settlement.) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 75.0 95.0 210.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 91.0 145.0 Td (ERC-1155) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 91.0 128.0 Td (Multi-Tier Capped Tickets) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 91.0 107.0 Td (Bytecode supply enforcement) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 310.0 95.0 210.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 326.0 145.0 Td (3s Finality) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 326.0 128.0 Td (Fast Botchain Settlement) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 326.0 107.0 Td (Sub-cent transaction fees) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 545.0 95.0 210.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 561.0 145.0 Td (100% P2P) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 561.0 128.0 Td (True Self-Custodial Assets) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 561.0 107.0 Td (Secondary resale & transfers enabled) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 1 / 10) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 4481 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.750 0.150 0.150 rg 683.5 553.0 113.5 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 691.5 558.0 Td (INDUSTRY CRISIS) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (The Problem: Legacy Ticketing is Broken) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+BT /F1 12 Tf 0.750 0.820 0.900 rg 45.0 520.0 Td (The $75B global live events ticketing market suffers from systemic monopoly abuses, fraud, and extractive gatekeepers.) Tj ET
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 280.0 360.0 180.0 re B
+1 w 0.940 0.270 0.270 rg 45.0 280.0 4.0 180.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 438.0 Td (1. Rampant Fraud & Counterfeiting) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 432.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 415.0 Td (Over $15B lost annually to fake tickets and scams.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 418.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 399.0 Td (Duplicate screenshot barcodes scanned at venue gates.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 402.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 383.0 Td (Fans arrive at sold-out stadiums only to be turned away.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 386.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 367.0 Td (Zero cryptographic provenance on legacy paper or static apps.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 370.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 435.0 280.0 360.0 180.0 re B
+1 w 0.980 0.620 0.150 rg 435.0 280.0 4.0 180.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 451.0 438.0 Td (2. Extortionate Hidden Middleman Fees) Tj ET
+1 w 0.180 0.250 0.360 rg 451.0 432.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 415.0 Td (Gatekeepers \(Ticketmaster, Eventbrite\) charge 15% - 35%.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 418.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 399.0 Td (Hidden convenience, processing, and facility surcharges.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 402.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 383.0 Td (Siphons immense revenue away from artists and venues.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 386.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 367.0 Td (Zero transparency into actual organizer pricing.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 370.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 75.0 360.0 180.0 re B
+1 w 0.650 0.450 0.950 rg 45.0 75.0 4.0 180.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 233.0 Td (3. Predatory Bot Scalping) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 227.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 210.0 Td (Automated sniper bots scoop inventory within milliseconds.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 213.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 194.0 Td (Tickets flipped on secondary markets at 300% - 1,000% markups.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 197.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 178.0 Td (Creators and performers receive 0% of secondary profits.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 181.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 162.0 Td (True fans priced out of concerts, sports, and live shows.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 165.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 435.0 75.0 360.0 180.0 re B
+1 w 0.220 0.740 0.970 rg 435.0 75.0 4.0 180.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 451.0 233.0 Td (4. Zero True Ownership & Arbitrary Lock-In) Tj ET
+1 w 0.180 0.250 0.360 rg 451.0 227.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 210.0 Td (Users hold non-custodial entries in proprietary databases.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 213.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 194.0 Td (Platforms arbitrarily lock, revoke, or cancel transfers.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 197.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 178.0 Td (Complex walled gardens prevent peer-to-peer flexibility.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 181.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 162.0 Td (Fans cannot gift or trade tickets without platform consent.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 165.0 3.0 3.0 re f
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 2 / 10) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 4291 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.100 0.650 0.400 rg 651.0 553.0 146.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 659.0 558.0 Td (TRUSTLESS PRIMITIVES) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (The Solution: The Tiketa Protocol) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+BT /F1 12 Tf 0.750 0.820 0.900 rg 45.0 520.0 Td (Tiketa replaces extractive middlemen with transparent, decentralized smart contracts deployed on Botchain.) Tj ET
+1 w 0.080 0.110 0.220 rg 0.400 0.300 0.850 RG 45.0 280.0 360.0 180.0 re B
+BT /F2 13 Tf 0.650 0.550 0.980 rg 61.0 438.0 Td (Cryptographic Verifiability \(ERC-1155\)) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 432.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 415.0 Td (Each ticket tier is an on-chain token ID with capped supply.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 418.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 399.0 Td (Hard cap enforced at bytecode level \(totalSupply + amt <= max\).) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 402.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 383.0 Td (Counterfeiting and screenshot duplication are impossible.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 386.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 367.0 Td (Permanent on-chain event logs for every ticket mint & transfer.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 370.0 3.0 3.0 re f
+1 w 0.080 0.110 0.220 rg 0.150 0.650 0.450 RG 435.0 280.0 360.0 180.0 re B
+BT /F2 13 Tf 0.200 0.850 0.550 rg 451.0 438.0 Td (Exact Native BOT Settlement) Tj ET
+1 w 0.180 0.250 0.360 rg 451.0 432.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 415.0 Td (Built-in exact payment validation: msg.value == price * amount.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 418.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 399.0 Td (Rejects underpayment and overpayment automatically.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 402.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 383.0 Td (Native BOT settlement on Botchain eliminates currency friction.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 386.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 367.0 Td (Protected against reentrancy attacks via ReentrancyGuard.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 370.0 3.0 3.0 re f
+1 w 0.080 0.110 0.220 rg 0.200 0.550 0.850 RG 45.0 75.0 360.0 180.0 re B
+BT /F2 13 Tf 0.220 0.740 0.970 rg 61.0 233.0 Td (Liquid Peer-to-Peer Ownership) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 227.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 210.0 Td (Tickets stay standard ERC-1155 tokens in user self-custody.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 213.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 194.0 Td (Full support for safeTransferFrom and safeBatchTransferFrom.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 197.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 178.0 Td (Resale and gifting remain fully open without platform freeze.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 181.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 162.0 Td (Secondary market freedom without centralized account bans.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 165.0 3.0 3.0 re f
+1 w 0.080 0.110 0.220 rg 0.750 0.550 0.150 RG 435.0 75.0 360.0 180.0 re B
+BT /F2 13 Tf 0.980 0.750 0.200 rg 451.0 233.0 Td (Direct Organizer Sovereignty) Tj ET
+1 w 0.180 0.250 0.360 rg 451.0 227.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 210.0 Td (Organizers create tiers, set prices, and pause/activate sales.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 213.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 194.0 Td (Dynamic on-chain price adjustments in real time.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 197.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 178.0 Td (Instant revenue withdrawal directly to organizer wallet.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 181.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 162.0 Td (Zero platform approval required to claim ticket sales.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 165.0 3.0 3.0 re f
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 3 / 10) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 12 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 5338 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.490 0.230 0.930 rg 677.0 553.0 120.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 685.0 558.0 Td (PRODUCTION GRADE) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Technical Architecture & Monorepo Stack) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 230.0 235.0 270.0 re B
+1 w 0.490 0.230 0.930 rg 45.0 230.0 4.0 270.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 478.0 Td (Smart Contracts) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 472.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 455.0 Td (Solidity ^0.8.24) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 458.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 439.0 Td (Foundry Framework \(forge, cast\)) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 442.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 423.0 Td (OpenZeppelin Contracts v5) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 426.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 407.0 Td (ERC1155Supply & Ownable) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 410.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 391.0 Td (ReentrancyGuard Protection) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 394.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 375.0 Td (CEI Security Pattern) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 378.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 359.0 Td (Typed Custom Errors) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 362.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 343.0 Td (25 / 25 Passing Foundry Tests) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 346.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 303.0 230.0 235.0 270.0 re B
+1 w 0.220 0.740 0.970 rg 303.0 230.0 4.0 270.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 319.0 478.0 Td (Frontend Web dApp) Tj ET
+1 w 0.180 0.250 0.360 rg 319.0 472.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 455.0 Td (React 18 + TypeScript) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 458.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 439.0 Td (Vite Next-Gen Bundler) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 442.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 423.0 Td (Tailwind CSS Glassmorphism) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 426.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 407.0 Td (Ethers.js v6 Web3 Library) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 410.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 391.0 Td (Auto Network Add / Switch) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 394.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 375.0 Td (Real-time Explorer Linking) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 378.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 359.0 Td (Dynamic Contract Address Override) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 362.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 343.0 Td (Zero Heavy Dependencies) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 346.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 562.0 230.0 235.0 270.0 re B
+1 w 0.100 0.650 0.400 rg 562.0 230.0 4.0 270.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 578.0 478.0 Td (Botchain Infrastructure) Tj ET
+1 w 0.180 0.250 0.360 rg 578.0 472.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 455.0 Td (EVM-Compatible L1 Testnet) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 458.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 439.0 Td (Chain ID: 968 \(Hex: 0x3c8\)) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 442.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 423.0 Td (Native Token: BOT \(18 dec\)) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 426.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 407.0 Td (RPC: https://rpc.bohr.life) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 410.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 391.0 Td (Explorer: scan.bohr.life) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 394.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 375.0 Td (~3-Second Confirmation) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 378.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 359.0 Td (Sub-Cent Gas Execution) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 362.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 343.0 Td (100% On-Chain Settlement) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 346.0 3.0 3.0 re f
+1 w 0.060 0.090 0.160 rg 0.180 0.250 0.380 RG 45.0 75.0 752.0 135.0 re B
+BT /F2 11 Tf 0.650 0.550 0.980 rg 65.0 185.0 Td (DEPLOYED PROTOCOL VERIFICATION & INVARIANTS) Tj ET
+BT /F2 10.5 Tf 1.000 1.000 1.000 rg 65.0 160.0 Td (Contract Address:  0x917524fccd12d61a36918506d5e80679699e534f \(Botchain Chain 968\)) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 65.0 140.0 Td (buy\(id, amount\): Checks totalSupply\(id\) + amount <= maxSupply & msg.value == price * amount) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 65.0 120.0 Td (withdraw\(\): Transfers address\(this\).balance to owner\(\) using nonReentrant & Checks-Effects-Interactions) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 65.0 100.0 Td (safeTransferFrom\(\): Native ERC-1155 peer-to-peer transferability for ticket secondary resale) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 4 / 10) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 14 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 4789 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.100 0.650 0.400 rg 657.5 553.0 139.5 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 665.5 558.0 Td (LIVE DAPP INTERFACE) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (User Experience & Core dApp Features) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 80.0 360.0 415.0 re B
+1 w 0.220 0.740 0.970 rg 45.0 80.0 4.0 415.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 473.0 Td (Attendee Experience) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 467.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 450.0 Td (Interactive Ticket Marketplace:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 434.0 Td (Tier cards displaying tier ID, name, and live price in BOT.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 437.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 418.0 Td (Visual progress bars showing remaining vs. max supply.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 421.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 402.0 Td (Sold-out & sales paused badges updated live.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 405.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 386.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 370.0 Td (Streamlined Minting Flow:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 354.0 Td (Quantity selectors with real-time total BOT calculation.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 357.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 338.0 Td (Auto-prompts wallet to add & switch to Botchain testnet.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 341.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 322.0 Td (Modal transaction alerts with direct links to Bohr explorer.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 325.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 306.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 290.0 Td (My Tickets Portfolio:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 274.0 Td (Live query of all owned ERC-1155 token IDs and balances.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 277.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 258.0 Td (Peer-to-peer ticket transfer modal to send tickets to any wallet.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 261.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 242.0 Td (Resale-ready standard tokens in self-custody.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 245.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 435.0 80.0 360.0 415.0 re B
+1 w 0.490 0.230 0.930 rg 435.0 80.0 4.0 415.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 451.0 473.0 Td (Organizer Dashboard) Tj ET
+1 w 0.180 0.250 0.360 rg 451.0 467.0 328.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 451.0 450.0 Td (Role-Guarded Administration:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 434.0 Td (Access restricted to contract owner \(isOwner check\).) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 437.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 418.0 Td (Displays accumulated BOT proceeds held in the treasury.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 421.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 402.0 Td (Single-click revenue withdrawal directly to organizer wallet.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 405.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 451.0 386.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 451.0 370.0 Td (Dynamic Tier Configuration:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 354.0 Td (Create new ticket tiers \(ID, name, max supply, price in BOT\).) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 357.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 338.0 Td (Instant on-chain event emission \(TierCreated\).) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 341.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 322.0 Td (No redeployment required to add tiers or events.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 325.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 451.0 306.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 451.0 290.0 Td (Live Market Controls:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 274.0 Td (Inline price update form \(setPrice\) to adapt to market demand.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 277.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 258.0 Td (One-click sales toggle \(setTierActive\) to pause or resume sales.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 261.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 459.0 242.0 Td (Complete inventory management and supply visibility.) Tj ET
+1 w 0.220 0.740 0.970 rg 451.0 245.0 3.0 3.0 re f
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 5 / 10) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 16 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 4379 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.100 0.650 0.400 rg 677.0 553.0 120.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 685.0 558.0 Td (TESTNET DEPLOYED) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Live Traction & On-Chain Validation) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 45.0 410.0 175.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 61.0 460.0 Td (25 / 25) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 61.0 443.0 Td (Foundry Tests Passed) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 61.0 422.0 Td (Unit & fuzz test suite) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 237.0 410.0 175.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 253.0 460.0 Td (25) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 253.0 443.0 Td (Tickets Minted) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 253.0 422.0 Td (On-chain tier 1 mints) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 429.0 410.0 175.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 445.0 460.0 Td (24) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 445.0 443.0 Td (Contract Buy Txs) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 445.0 422.0 Td (Direct contract purchases) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 621.0 410.0 175.0 85.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 637.0 460.0 Td (100%) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 637.0 443.0 Td (Tx Success Rate) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 637.0 422.0 Td (All confirmed on Botchain) Tj ET
+1 w 0.060 0.090 0.160 rg 0.180 0.250 0.380 RG 45.0 90.0 752.0 300.0 re B
+BT /F2 12 Tf 0.650 0.550 0.980 rg 65.0 365.0 Td (VERIFIED BOTCHAIN TESTNET METRICS) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 329.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 335.0 Td (Smart Contract Address) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 335.0 Td (0x917524fccd12d61a36918506d5e80679699e534f) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 335.0 Td (Verified on Bohr Explorer) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 297.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 303.0 Td (Tier 1: General Admission) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 303.0 Td (Cap: 500  |  Minted: 25  |  Remaining: 475  |  Price: 0.01 BOT) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 303.0 Td (Active & Selling) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 265.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 271.0 Td (Tier 2: VIP Experience) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 271.0 Td (Cap: 50  |  Minted: 0  |  Remaining: 50  |  Price: 0.05 BOT) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 271.0 Td (Active & Selling) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 233.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 239.0 Td (Contract Treasury Balance) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 239.0 Td (0.25 BOT accumulated from on-chain ticket sales) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 239.0 Td (Ready for withdrawal) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 201.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 207.0 Td (Wallet 1 \(0xf391...0801\)) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 207.0 Td (8 Tier-1 tickets owned  |  Nonce: 16  |  Balance: 0.2075 BOT) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 207.0 Td (8 Buys Confirmed) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 169.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 175.0 Td (Wallet 2 \(0x6D6b...5C96\)) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 175.0 Td (8 Tier-1 tickets owned  |  Nonce: 16  |  Balance: 0.2075 BOT) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 175.0 Td (8 Buys Confirmed) Tj ET
+1 w 0.080 0.120 0.200 rg 0.150 0.200 0.300 RG 65.0 137.0 712.0 26.0 re B
+BT /F2 9.5 Tf 1.000 1.000 1.000 rg 75.0 143.0 Td (Wallet 3 \(0xE13c...626C\)) Tj ET
+BT /F1 9.5 Tf 0.780 0.840 0.900 rg 240.0 143.0 Td (8 Tier-1 tickets owned  |  Nonce: 16  |  Balance: 0.2075 BOT) Tj ET
+BT /F2 9.5 Tf 0.200 0.850 0.550 rg 640.0 143.0 Td (8 Buys Confirmed) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 6 / 10) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 18 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 3433 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.490 0.230 0.930 rg 612.0 553.0 185.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 620.0 558.0 Td (SUSTAINABLE UNIT ECONOMICS) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Market Opportunity & Business Model) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 45.0 385.0 235.0 105.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 61.0 455.0 Td ($85.3B) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 61.0 438.0 Td (Global Ticketing TAM by 2028) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 61.0 397.0 Td (Expanding at 6.5% annual CAGR) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 303.0 385.0 235.0 105.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 319.0 455.0 Td ($12B+) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 319.0 438.0 Td (Web3 Ticketing Market by 2030) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 319.0 397.0 Td (Rapid migration to smart contract passes) Tj ET
+1 w 0.090 0.140 0.240 rg 0.220 0.300 0.440 RG 562.0 385.0 235.0 105.0 re B
+BT /F2 24 Tf 0.220 0.740 0.970 rg 578.0 455.0 Td (90%+) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 578.0 438.0 Td (Fee Savings vs. Monopolies) Tj ET
+BT /F1 8.5 Tf 0.580 0.640 0.720 rg 578.0 397.0 Td (Lower fees for creators and fans) Tj ET
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 80.0 752.0 280.0 re B
+1 w 0.220 0.740 0.970 rg 45.0 80.0 4.0 280.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 338.0 Td (Three Robust Revenue Streams) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 332.0 720.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 315.0 Td (1. Primary Mint Protocol Fee \(0.5% - 1.5%\):) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 299.0 Td (Micro-fee charged on primary ticket mints; provides massive cost savings over Ticketmaster's 20%+ cut.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 302.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 283.0 Td (Generates consistent protocol treasury inflow directly correlated with event volume.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 286.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 267.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 251.0 Td (2. Secondary Resale Royalties \(EIP-2981\):) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 235.0 Td (Configurable 2.5% to 5.0% royalty on secondary ticket resales split between protocol and creators.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 238.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 219.0 Td (Turns secondary market scalping into a perpetual funding stream for event organizers.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 222.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 203.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 187.0 Td (3. Enterprise White-Label & Venue Solutions:) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 171.0 Td (Dedicated white-label event portal deployments and custom smart contract factories.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 174.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 155.0 Td (Turnkey venue access control APIs, real-time demand analytics, and sponsor marketing portals.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 158.0 3.0 3.0 re f
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 7 / 10) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 20 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 3945 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.490 0.230 0.930 rg 644.5 553.0 152.5 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 652.5 558.0 Td (UNRIVALED POSITIONING) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Competitive Advantage & Differentiation) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.060 0.090 0.160 rg 0.180 0.250 0.380 RG 45.0 100.0 752.0 395.0 re B
+1 w 0.090 0.140 0.240 rg 45.0 455.0 752.0 40.0 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 65.0 470.0 Td (Feature Dimension) Tj ET
+BT /F2 11 Tf 0.950 0.450 0.450 rg 240.0 470.0 Td (Ticketmaster / Eventbrite) Tj ET
+BT /F2 11 Tf 0.950 0.750 0.350 rg 450.0 470.0 Td (YellowHeart / SeatGeek) Tj ET
+BT /F2 11 Tf 0.350 0.850 0.550 rg 660.0 470.0 Td (TIKETA \(BOTCHAIN\)) Tj ET
+1 w 0.050 0.080 0.140 rg 45.0 409.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 421.0 Td (Transaction Fee) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 421.0 Td (15% - 35% \(Extortionate\)) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 421.0 Td (5% - 10%) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 421.0 Td (< 1.5% \(Disruptive\)) Tj ET
+1 w 0.070 0.100 0.180 rg 45.0 371.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 383.0 Td (Settlement Speed) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 383.0 Td (Days to Weeks \(Delayed\)) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 383.0 Td (Minutes) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 383.0 Td (~3 Seconds \(Instant\)) Tj ET
+1 w 0.050 0.080 0.140 rg 45.0 333.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 345.0 Td (Asset Custody) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 345.0 Td (Centralized Database) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 345.0 Td (Semi-Custodial) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 345.0 Td (100% Self-Custodial \(Web3\)) Tj ET
+1 w 0.070 0.100 0.180 rg 45.0 295.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 307.0 Td (Supply Transparency) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 307.0 Td (Zero \(Opaque Black Box\)) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 307.0 Td (Partial) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 307.0 Td (100% Bytecode Enforced) Tj ET
+1 w 0.050 0.080 0.140 rg 45.0 257.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 269.0 Td (Gas Cost per Mint) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 269.0 Td (N/A \(Hidden Platform Fees\)) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 269.0 Td (High \($2 - $15 on ETH\)) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 269.0 Td (Sub-Cent \(< $0.001 on Botchain\)) Tj ET
+1 w 0.070 0.100 0.180 rg 45.0 219.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 231.0 Td (Secondary Resale Rights) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 231.0 Td (Strictly Banned / Locked) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 231.0 Td (Proprietary App Only) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 231.0 Td (Open ERC-1155 Standard) Tj ET
+1 w 0.050 0.080 0.140 rg 45.0 181.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 193.0 Td (Organizer Royalties) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 193.0 Td (0% on Resales) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 193.0 Td (Limited) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 193.0 Td (Automated On-Chain Payouts) Tj ET
+1 w 0.070 0.100 0.180 rg 45.0 143.0 752.0 35.0 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 65.0 155.0 Td (Code Transparency) Tj ET
+BT /F1 10 Tf 0.850 0.550 0.550 rg 240.0 155.0 Td (Closed Source) Tj ET
+BT /F1 10 Tf 0.850 0.750 0.550 rg 450.0 155.0 Td (Proprietary) Tj ET
+BT /F2 10 Tf 0.200 0.850 0.550 rg 660.0 155.0 Td (100% Auditable Open Source) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 8 / 10) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 22 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 5139 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.490 0.230 0.930 rg 690.0 553.0 107.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 698.0 558.0 Td (EXECUTION PLAN) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Strategic Roadmap & Milestone Execution) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 45.0 90.0 235.0 400.0 re B
+1 w 0.100 0.650 0.400 rg 45.0 90.0 4.0 400.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 61.0 468.0 Td (Phase 1: Foundation) Tj ET
+1 w 0.180 0.250 0.360 rg 61.0 462.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 445.0 Td ([COMPLETED - Q4 2026]) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 61.0 429.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 413.0 Td (Core ERC-1155 smart contract.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 416.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 397.0 Td (Supply cap & exact payment rules.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 400.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 381.0 Td (OpenZeppelin v5 security modules.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 384.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 365.0 Td (Foundry test suite \(25/25 passed\).) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 368.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 349.0 Td (Deploy script with cast keystore.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 352.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 333.0 Td (Botchain testnet deployment.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 336.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 317.0 Td (Full React 18 + Vite + Tailwind dApp.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 320.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 69.0 301.0 Td (24 on-chain buy txs verified live.) Tj ET
+1 w 0.220 0.740 0.970 rg 61.0 304.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 303.0 90.0 235.0 400.0 re B
+1 w 0.220 0.740 0.970 rg 303.0 90.0 4.0 400.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 319.0 468.0 Td (Phase 2: Scale) Tj ET
+1 w 0.180 0.250 0.360 rg 319.0 462.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 319.0 445.0 Td ([IN PROGRESS - Q1 2027]) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 319.0 429.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 413.0 Td (EIP-2981 secondary royalty payouts.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 416.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 397.0 Td (Decentralized metadata on IPFS.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 400.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 381.0 Td (Multi-event factory smart contract.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 384.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 365.0 Td (Venue entrance scanner web app.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 368.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 349.0 Td (Advanced organizer sales analytics.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 352.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 333.0 Td (Smart contract security audits.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 336.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 317.0 Td (Botchain Mainnet deployment.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 320.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 327.0 301.0 Td (First live conference pilot.) Tj ET
+1 w 0.220 0.740 0.970 rg 319.0 304.0 3.0 3.0 re f
+1 w 0.080 0.120 0.200 rg 0.180 0.250 0.360 RG 562.0 90.0 235.0 400.0 re B
+1 w 0.490 0.230 0.930 rg 562.0 90.0 4.0 400.0 re f
+BT /F2 13 Tf 1.000 1.000 1.000 rg 578.0 468.0 Td (Phase 3: Adoption) Tj ET
+1 w 0.180 0.250 0.360 rg 578.0 462.0 203.0 0.8 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 578.0 445.0 Td ([PLANNED - Q2 2027]) Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 578.0 429.0 Td () Tj ET
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 413.0 Td (Fiat credit card on-ramp to mints.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 416.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 397.0 Td (Progressive Web App \(PWA\) with alerts.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 400.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 381.0 Td (POAP soulbound attendance badges.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 384.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 365.0 Td (Ticket staking & loyalty perks.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 368.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 349.0 Td (Secondary marketplace liquidity pool.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 352.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 333.0 Td (Decentralized organizer DAO.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 336.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 317.0 Td (Global festival partnerships.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 320.0 3.0 3.0 re f
+BT /F1 10 Tf 0.780 0.840 0.900 rg 586.0 301.0 Td (SDK for third-party venue apps.) Tj ET
+1 w 0.220 0.740 0.970 rg 578.0 304.0 3.0 3.0 re f
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 9 / 10) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 24 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 2375 >>
+stream
+1 w 0.040 0.060 0.110 rg 0.0 0.0 842.0 595.0 re f
+1 w 0.490 0.230 0.930 rg 0.0 591.0 842.0 4.0 re f
+1 w 0.100 0.650 0.400 rg 703.0 553.0 94.0 20.0 re f
+BT /F2 9 Tf 1.000 1.000 1.000 rg 711.0 558.0 Td (GET IN TOUCH) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 45.0 555.0 Td (Invest in the Future of Live Events) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 545.0 752.0 1.5 re f
+1 w 0.060 0.090 0.160 rg 0.180 0.250 0.380 RG 45.0 80.0 752.0 415.0 re B
+BT /F2 24 Tf 1.000 1.000 1.000 rg 75.0 450.0 Td (Tiketa is Live, Tested, and Proven on Botchain.) Tj ET
+BT /F1 13 Tf 0.780 0.840 0.900 rg 75.0 415.0 Td (By replacing legacy ticketing gatekeepers with mathematical smart contract guarantees,) Tj ET
+BT /F1 13 Tf 0.780 0.840 0.900 rg 75.0 395.0 Td (Tiketa empowers event organizers and fans with unprecedented fairness, zero fraud,) Tj ET
+BT /F1 13 Tf 0.780 0.840 0.900 rg 75.0 375.0 Td (sub-cent transaction fees, and genuine digital asset ownership.) Tj ET
+1 w 0.080 0.120 0.220 rg 0.490 0.230 0.930 RG 75.0 120.0 692.0 220.0 re B
+BT /F2 13 Tf 0.650 0.550 0.980 rg 95.0 310.0 Td (ON-CHAIN DETAILS & REPOSITORY LINKS) Tj ET
+BT /F2 11 Tf 1.000 1.000 1.000 rg 95.0 275.0 Td (Verified Smart Contract:) Tj ET
+BT /F1 11 Tf 0.650 0.550 0.980 rg 270.0 275.0 Td (0x917524fccd12d61a36918506d5e80679699e534f) Tj ET
+BT /F2 11 Tf 1.000 1.000 1.000 rg 95.0 245.0 Td (Network:) Tj ET
+BT /F1 11 Tf 0.780 0.840 0.900 rg 270.0 245.0 Td (Botchain Testnet \(Chain ID: 968 | Native Token: BOT | RPC: https://rpc.bohr.life\)) Tj ET
+BT /F2 11 Tf 1.000 1.000 1.000 rg 95.0 215.0 Td (Block Explorer:) Tj ET
+BT /F1 11 Tf 0.220 0.740 0.970 rg 270.0 215.0 Td (https://scan.bohr.life/address/0x917524fccd12d61a36918506d5e80679699e534f) Tj ET
+BT /F2 11 Tf 1.000 1.000 1.000 rg 95.0 185.0 Td (Code Architecture:) Tj ET
+BT /F1 11 Tf 0.780 0.840 0.900 rg 270.0 185.0 Td (Foundry Smart Contracts \(Solidity 0.8.24\) + React 18 / Vite / Tailwind Web App) Tj ET
+BT /F2 11 Tf 1.000 1.000 1.000 rg 95.0 155.0 Td (Test Verification:) Tj ET
+BT /F2 11 Tf 0.200 0.850 0.550 rg 270.0 155.0 Td (25 / 25 Passing Foundry Unit & Fuzz Tests  |  24 Live Contract Buys Confirmed) Tj ET
+1 w 0.140 0.190 0.280 rg 45.0 39.0 752.0 1.0 re f
+BT /F1 9 Tf 0.450 0.520 0.620 rg 45.0 25.0 Td (Tiketa Protocol  |  Botchain Testnet \(Chain ID 968\)  |  https://scan.bohr.life) Tj ET
+BT /F2 9 Tf 0.580 0.640 0.720 rg 747.0 25.0 Td (Slide 10 / 10) Tj ET
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000183 00000 n 
+0000000253 00000 n 
+0000000328 00000 n 
+0000000464 00000 n 
+0000002477 00000 n 
+0000002613 00000 n 
+0000007146 00000 n 
+0000007283 00000 n 
+0000011627 00000 n 
+0000011765 00000 n 
+0000017156 00000 n 
+0000017294 00000 n 
+0000022136 00000 n 
+0000022274 00000 n 
+0000026706 00000 n 
+0000026844 00000 n 
+0000030330 00000 n 
+0000030468 00000 n 
+0000034466 00000 n 
+0000034604 00000 n 
+0000039796 00000 n 
+0000039934 00000 n 
+trailer << /Size 25 /Root 1 0 R >>
+startxref
+42362
+%%EOF
