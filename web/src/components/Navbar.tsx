@@ -1,5 +1,5 @@
 import React from 'react';
-import { Ticket, Shield, Wallet, AlertTriangle } from 'lucide-react';
+import { Shield, Wallet, AlertTriangle } from 'lucide-react';
 import { formatAddress } from '../utils/format';
 
 interface NavbarProps {
@@ -37,15 +37,15 @@ export const Navbar: React.FC<NavbarProps> = ({
             onClick={() => setCurrentTab('explore')}
             className="flex items-center gap-3 cursor-pointer group"
           >
-            <div className="w-11 h-11 rounded-xl bg-gradient-to-tr from-brand-600 to-indigo-500 flex items-center justify-center text-white shadow-lg shadow-brand-500/25 group-hover:scale-105 transition-transform">
-              <Ticket className="w-6 h-6 rotate-45" />
+            <div className="w-11 h-11 rounded-xl bg-slate-900 border border-slate-700/80 flex items-center justify-center text-white shadow-lg shadow-brand-500/25 group-hover:scale-105 transition-transform overflow-hidden">
+              <img src="/tiketa.jpeg" alt="Tiketa Logo" className="w-full h-full object-cover rounded-xl" />
             </div>
             <div>
               <span className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-200 to-brand-300 bg-clip-text text-transparent">
                 Tiketa
               </span>
               <span className="hidden sm:inline-block ml-2 px-2 py-0.5 text-[10px] uppercase font-bold tracking-wider bg-brand-500/10 text-brand-400 border border-brand-500/20 rounded-full">
-                Botchain
+                Botchain Mainnet
               </span>
             </div>
           </div>
@@ -96,7 +96,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               {isBotchain ? (
                 <div className="hidden sm:flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-semibold">
                   <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                  <span>Botchain (968)</span>
+                  <span>Botchain (677)</span>
                 </div>
               ) : (
                 <button

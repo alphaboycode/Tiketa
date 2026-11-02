@@ -20,9 +20,9 @@ export function formatBOT(wei: bigint): string {
 }
 
 export function getExplorerTxUrl(hash: string): string {
-  return `https://scan.bohr.life/tx/${hash}`;
+  return `https://scan.botchain.ai/tx/${hash}`;
 }
 
 export function getExplorerAddressUrl(address: string): string {
-  return `https://scan.bohr.life/address/${address}`;
+  return `https://scan.botchain.ai/address/${address}`;
 }
