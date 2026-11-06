@@ -90,7 +90,7 @@ export const Footer: React.FC<FooterProps> = ({ contractAddress }) => {
 
           {/* Slogan */}
           <p className="text-slate-300 text-xs sm:text-sm tracking-wide">
-            Tipped, thanked, on chain
+            Ticketed, verified, on chain
           </p>
 
           {/* Diamond Separator */}
